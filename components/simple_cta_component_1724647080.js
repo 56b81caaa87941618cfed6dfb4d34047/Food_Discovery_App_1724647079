@@ -14,7 +14,7 @@ Vue.component("simple_cta_component_1724647080", {
                 </div>
                 
                 <div id="cta-button-container" class="flex">
-                    <a id="cta-button" href="#" class="flex-1 text-purple-900 bg-white bg-opacity-70 hover:bg-opacity-100 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105">Launch Your Cosmic Feast</a>
+                    <a id="cta-button" href="#" class="flex-1 text-purple-900 bg-white bg-opacity-70 hover:bg-opacity-100 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105">Launch Your Cosmic Fest</a>
                 </div>
             </div>
         </div>
