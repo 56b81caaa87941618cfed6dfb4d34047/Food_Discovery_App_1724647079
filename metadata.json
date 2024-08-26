@@ -4,5 +4,6 @@
     "project_description": "an app fr the food",
     "creation_time": "2024-08-26 04:37:59.478737",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image showcases a surreal outer space scene with vibrant pinks and purples dominating the color scheme, featuring a large moon, smaller celestial bodies, and a reflective lake with mountainous terrain. The overall style is fantastical and otherworldly, with a neon glow effect enhancing the ethereal atmosphere."
 }
